@@ -1,20 +1,23 @@
 {
-  "name": "versionend", 
-  "version": "1.0.0", 
-  "description": "last version", 
+  "name": "versionend",
+  "version": "1.0.1",
+  "description": "last version",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/superrrsoldat/versionend.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "superrrsoldat", 
-  "license": "MIT"
+  "author": "superrrsoldat",
+  "license": "MIT",
+  "dependencies": {
+    "versionend": "^1.0.0"
+  }
 }
